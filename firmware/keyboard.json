@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Aatiesh",
+    "keyboard_name": "aatieshpad",
+    "maintainer": "aatiesh",
+"usb": {
+    "vid": "0xFEED",
+    "pid": "0x0001",
+    "device_version": "1.0.0"
+},
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["GP26"],
+        "rows": ["GP7", "GP6", "GP5"]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [1, 0], "x": 1, "y": 0 },
+                { "matrix": [2, 0], "x": 2, "y": 0 }
+            ]
+        }
+    }
+}
