@@ -136,6 +136,6 @@ Although the project followed the Hackpad guide as a starting point, building th
 
 # Acknowledgements
 
-Special thanks to Hack Club and the Hackpad guide for providing the resources and documentation needed to build this project.
+Special thanks to Hack Club and the Hackpad guide for providing the resources and documentation needed to build this project - Alex Ren.
 
 Hackpad is a great introduction to PCB design, firmware development, CAD modelling, and electronics manufacturing.
